@@ -1,4 +1,4 @@
-update=Sun 16 Oct 2016 12:44:51 EDT
+update=Mon 17 Oct 2016 11:18:50 EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -99,3 +99,17 @@ LibName67=/home/bob/Dropbox/Kicad_Libraries/KiCad-master/library/ab2_usb
 LibName68=/home/bob/Dropbox/Kicad_Libraries/KiCad-master/library/ab2_xtal
 LibName69=/home/bob/Dropbox/Kicad_Libraries/component-libraries-master/KiCad/Universal
 LibName70=/home/bob/Downloads/arduino/Librairie_kicad_arduino/Library_schematic_shield_arduino/shield_arduino
+LibName71=/home/bob/Dropbox/Kicad_Libraries/nextion
+LibName72=/home/bob/Dropbox/Kicad_Libraries/PIC 12F629
+LibName73=/home/bob/Dropbox/Kicad_Libraries/power
+LibName74=/home/bob/Dropbox/Kicad_Libraries/w_analog
+LibName75=/home/bob/Dropbox/Kicad_Libraries/w_connectors
+LibName76=/home/bob/Dropbox/Kicad_Libraries/w_device
+LibName77=/home/bob/Dropbox/Kicad_Libraries/w_logic
+LibName78=/home/bob/Dropbox/Kicad_Libraries/w_memory
+LibName79=/home/bob/Dropbox/Kicad_Libraries/w_microcontrollers
+LibName80=/home/bob/Dropbox/Kicad_Libraries/w_opto
+LibName81=/home/bob/Dropbox/Kicad_Libraries/w_relay
+LibName82=/home/bob/Dropbox/Kicad_Libraries/w_rtx
+LibName83=/home/bob/Dropbox/Kicad_Libraries/w_transistor
+LibName84=/home/bob/Dropbox/Kicad_Libraries/w_vacuum
