@@ -1,0 +1,286 @@
+Info: Reading netlist file "/home/bob/Dropbox/Projects_2/Relay-Box/Board/MegaShield/Board.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "D1:/580A1A82:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D2:/580A22D4:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D3:/580C2A70:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D4:/580C2A77:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D5:/580C3758:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D6:/580C30BD:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D7:/580C375F:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D8:/580C30C4:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "P1:/5803AFE8:Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-2pol".
+
+Info: Checking netlist component footprint "P2:/580C2A62:Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-2pol".
+
+Info: Checking netlist component footprint "P3:/580C374A:Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-2pol".
+
+Info: Checking netlist component footprint "P4:/580C30AF:Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-2pol".
+
+Info: Checking netlist component footprint "P5:/5804EE6A:Pin_Headers:Pin_Header_Straight_1x08".
+
+Info: Checking netlist component footprint "P6:/5804EF12:Pin_Headers:Pin_Header_Straight_1x08".
+
+Info: Checking netlist component footprint "P7:/5804EF4B:Pin_Headers:Pin_Header_Straight_1x08".
+
+Info: Checking netlist component footprint "P8:/5804EF89:Pin_Headers:Pin_Header_Straight_1x08".
+
+Info: Checking netlist component footprint "P9:/5804EFC8:Pin_Headers:Pin_Header_Straight_1x08".
+
+Info: Checking netlist component footprint "P10:/58053EC5:Pin_Headers:Pin_Header_Straight_1x18".
+
+Info: Checking netlist component footprint "P11:/58053F41:Pin_Headers:Pin_Header_Straight_1x18".
+
+Info: Checking netlist component footprint "P12:/58053F97:Pin_Headers:Pin_Header_Straight_1x06".
+
+Info: Checking netlist component footprint "Q1:/580A9B7D:TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Info: Checking netlist component footprint "Q2:/580C2A8C:TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Info: Checking netlist component footprint "Q3:/580C3774:TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Info: Checking netlist component footprint "Q4:/580C30D9:TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval".
+
+Info: Checking netlist component footprint "R1:/580A2528:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R2:/580C0F39:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R3:/580C2A9C:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R4:/580C2A7E:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R5:/580C3784:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R6:/580C30E9:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R7:/580C3766:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "R8:/580C30CB:Resistors_ThroughHole:Resistor_Horizontal_RM7mm".
+
+Info: Checking netlist component footprint "RLY1:/5807B24D:Relays_THT:Relay_SPDS_OMRON-G6E".
+
+Info: Checking netlist component footprint "RLY2:/580C2A69:Relays_THT:Relay_SPDS_OMRON-G6E".
+
+Info: Checking netlist component footprint "RLY3:/580C3751:Relays_THT:Relay_SPDS_OMRON-G6E".
+
+Info: Checking netlist component footprint "RLY4:/580C30B6:Relays_THT:Relay_SPDS_OMRON-G6E".
+
+Info: Checking netlist component footprint "SHIELD1:/5803B8BE:arduino_shields:ARDUINO MEGA SHIELD".
+
+Error: Component 'RLY1' pad '14' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY1' pad '11' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY1' pad '2' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY2' pad '14' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY2' pad '11' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY2' pad '2' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY3' pad '14' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY3' pad '11' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY3' pad '2' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY4' pad '11' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY4' pad '14' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'RLY4' pad '2' not found in footprint 'Relays_THT:Relay_SPDS_OMRON-G6E'
+
+Error: Component 'SHIELD1' pad 'SDA' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SCL' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP2' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP4' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP1' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP3' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP5' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'IO_R' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD3' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD9' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD8' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD7' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD6' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD5' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD4' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '3V3' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'RST' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD2' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD1' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD0' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '5V' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'NC' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '49' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '39' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '29' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '19' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '48' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '5V_5' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'V_IN' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AREF' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '38' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'GND5' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD15' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '5V_4' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'GND4' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD14' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'GND3' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD13' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'GND2' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD12' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'GND1' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD11' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'AD10' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '9' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '22' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '12' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '51' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '41' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '31' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '21' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '11' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '50' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '40' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '30' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '20' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '10' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '32' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '8' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '7' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '6' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '5' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '4' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '3' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '2' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '1' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '0' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '25' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '28' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '18' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '47' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '37' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '27' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '17' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '46' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '36' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '26' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '16' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '45' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '35' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '15' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '44' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '34' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '24' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '14' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '53' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '43' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '33' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '23' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '13' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '52' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad '42' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
+Error: Component 'SHIELD1' pad 'SP6' not found in footprint 'arduino_shields:ARDUINO MEGA SHIELD'
+
