@@ -344,10 +344,6 @@ Text GLabel 7400 1050 0    60   BiDi ~ 0
 PA3
 Text GLabel 7400 950  0    60   BiDi ~ 0
 PA1
-Text GLabel 7400 850  0    60   BiDi ~ 0
-5V
-Text GLabel 8500 850  0    60   BiDi ~ 0
-5V
 Text GLabel 8500 2250 0    60   BiDi ~ 0
 PL1
 Text GLabel 8500 2150 0    60   BiDi ~ 0
@@ -988,4 +984,6 @@ Text GLabel 7400 2450 0    60   BiDi ~ 0
 Relay2
 Text GLabel 8500 2450 0    60   BiDi ~ 0
 Relay1
+NoConn ~ 8500 850 
+NoConn ~ 7400 850 
 $EndSCHEMATC
